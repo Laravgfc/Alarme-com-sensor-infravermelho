@@ -15,5 +15,3 @@ http://www.comofazerascoisas.com.br/
 - Cabo para conectar pilha e arduino
 - Diodo emissor de luz - LED
 - 2 resistores 220 ohms
-# Código e diagrama
-O código e o diagrama do projeto encontram-se em anexo
